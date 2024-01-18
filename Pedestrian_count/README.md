@@ -13,6 +13,7 @@ step 1:
         =>      Download any human walking file 
 
 step 2: 
+
         =>      Run Pedestrian_count.py file
         
         =>      Make sure you have assigned the path files like [coco.txt, yolov8.pt, video.mp4 files]
